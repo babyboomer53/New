@@ -1,6 +1,6 @@
 class PrePostDemo {
     public static void main(String[] args) {
-        int i = 3;
+        int i = 5;
         i++;
         // prints 4
         System.out.println(i);
@@ -13,6 +13,5 @@ class PrePostDemo {
         System.out.println(i++);
         // prints 7
         System.out.println(i);
-        
     }
 }
