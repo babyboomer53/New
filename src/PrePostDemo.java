@@ -1,4 +1,4 @@
-class PrePostDemo {
+public class PrePostDemo {
 	/**
 	 * Wow, that's interesting! When I started a comment block, the editor automatically
 	 * terminated that block and added a Javadoc tag.
